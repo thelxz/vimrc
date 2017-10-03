@@ -1,5 +1,5 @@
 set hlsearch
-color torte
+color darkblue
 
 " 取消备份。  
 " Turn backup off, since most stuff is in SVN, git et.c anyway...  
