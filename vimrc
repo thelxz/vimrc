@@ -20,6 +20,7 @@ set softtabstop=4
 set ai "Auto indent  
 set si "Smart indent
 
+set guifont=Monospace\ 14
 "显示当前的行号列号：  
 set ruler  
 ""在状态栏显示正在输入的命令  

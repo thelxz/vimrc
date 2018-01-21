@@ -1,3 +1,3 @@
 #!/bin/bash
-rm ~/.vimrc
+rm -f ~/.vimrc
 cp ./vimrc ~/.vimrc
